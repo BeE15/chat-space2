@@ -11,6 +11,7 @@
 - has_many :messages
 
 
+
 ## groupsテーブル
 |Column|Type|Options|
 |------|----|-------|
